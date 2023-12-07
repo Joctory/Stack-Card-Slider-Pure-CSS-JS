@@ -96,28 +96,6 @@ a {
   box-shadow: 0 0 1px 1px #00000003;
 }
 
-/* .card:nth-last-child(1) {
-  --y: calc(-50% + -30px);
-  transform: translate(-50%, var(--y)) scale(0.9);
-  box-shadow: 0 0 1px 1px #00000003;
-}
-.card:nth-last-child(2) {
-  --y: calc(-50% + -15px);
-  transform: translate(-50%, var(--y)) scale(0.95);
-}
-.card:nth-last-child(3) {
-  --y: calc(-50%);
-  transform: translate(-50%, var(--y)) scale(1);
-}
-.card:nth-last-child(4) {
-  --y: calc(-50% + 15px);
-  transform: translate(-50%, var(--y)) scale(1.05);
-}
-.card:nth-last-child(5) {
-  --y: calc(-50% + 30px);
-  transform: translate(-50%, var(--y)) scale(1.1);
-} */
-
 @media screen and (max-width: 500px) {
   .stack {
     width: 100%;
